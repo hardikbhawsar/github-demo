@@ -10,6 +10,6 @@ def subtract(x,y):
 def multiply(x,y):
     pass
 
-#divide implementation
+# divide implementation
 def divide(x,y):
     return x/y
